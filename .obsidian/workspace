@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "22bc8ab30beb9ad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3afa05675862b2c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "16.5-6 Surfaces & Surface Integrals.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95e7954462b52200",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb84005bd6da5f76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42b219bb0701f2d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5ec412eaa293a2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "arrow",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8161c1c4411bc83",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87b87d28866b351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f2abedc6b09c681",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "16.5-6 Surfaces & Surface Integrals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67f2c5e20dd57c8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "16.5-6 Surfaces & Surface Integrals.md"
+              }
+            }
+          },
+          {
+            "id": "4bb5002a666948ce",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "e740506d614e3a2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5377197265625
+  },
+  "active": "3afa05675862b2c4",
+  "lastOpenFiles": [
+    "16.3 Path Independence & Conservatives.md",
+    "12.4 Cross Products.md",
+    "13.3-5 Arc Length, Curvature, TNB.md",
+    "16.1-2 Line Integrals.md",
+    "12.5 Lines & Planes in Space.md",
+    "_scratch.md",
+    "14.1-2 Functions of Several Variables.md",
+    "13.6 Motion in Polar Coordinates.md",
+    "14.9 Taylor's Formula.md",
+    "Untitled.md"
+  ]
+}
