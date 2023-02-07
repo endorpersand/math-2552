@@ -1,42 +1,84 @@
 {
   "collapse-filter": false,
-  "search": "#module",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#module1",
+      "query": "path:01",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "#module2",
+      "query": "path:02",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "#module3",
+      "query": "path:03",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:05",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "#module4",
+      "query": "path:06",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:07",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:09",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:10",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:12",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:13",
+      "color": {
+        "a": 1,
+        "rgb": 14701180
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.23343242348802054,
+  "scale": 1.4870010045475541,
   "close": true
 }
